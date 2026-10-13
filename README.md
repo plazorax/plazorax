@@ -20,6 +20,7 @@ Senior full-stack engineer and tech lead with 14+ years in web development, base
 - [laravel-agent-workflow](https://github.com/plazorax/laravel-agent-workflow): Claude Code quality gates for Laravel
 - [woo-webhook-relay](https://github.com/plazorax/woo-webhook-relay): signed WooCommerce webhooks with retries and a delivery log
 - [wp-fleet-monitor](https://github.com/plazorax/wp-fleet-monitor): CLI and GitHub Action that checks a fleet of WordPress sites
+- [pixel-radar](https://github.com/plazorax/pixel-radar): self-hosted visual monitoring for any website, with a dashboard and CLI
 
 **Tech stack:** PHP, Laravel, Node.js, React, TypeScript, PostgreSQL, Docker, Shopify Liquid, WordPress / WooCommerce.
 **AI stack:** LLM API integrations, AI agents with tool calling, MCP servers, RAG with pgvector, agentic coding with Claude Code behind quality gates.
