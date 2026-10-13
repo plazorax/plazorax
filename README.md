@@ -13,16 +13,18 @@ Senior full-stack engineer and tech lead with 14+ years in web development, base
 
 **Open source**
 
-- [shopify-theme-agent-kit](https://github.com/plazorax/shopify-theme-agent-kit): Claude Code plugin for Shopify theme work
-- [shopify-theme-blocks](https://github.com/plazorax/shopify-theme-blocks): accessible Online Store 2.0 sections
-- [shopify-bulk-operations](https://github.com/plazorax/shopify-bulk-operations): TypeScript helper for Shopify bulk queries
-- [laravel-semantic-search](https://github.com/plazorax/laravel-semantic-search): pgvector semantic search with citations
-- [laravel-agent-workflow](https://github.com/plazorax/laravel-agent-workflow): Claude Code quality gates for Laravel
-- [woo-webhook-relay](https://github.com/plazorax/woo-webhook-relay): signed WooCommerce webhooks with retries and a delivery log
-- [wp-fleet-monitor](https://github.com/plazorax/wp-fleet-monitor): CLI and GitHub Action that checks a fleet of WordPress sites
-- [pixel-radar](https://github.com/plazorax/pixel-radar): self-hosted visual monitoring for any website, with a dashboard and CLI
+- [Shopify Theme Agent Kit](https://github.com/plazorax/shopify-theme-agent-kit): Claude Code plugin for Shopify theme work
+- [Shopify Theme Blocks](https://github.com/plazorax/shopify-theme-blocks): accessible Online Store 2.0 sections
+- [Shopify Bulk Operations](https://github.com/plazorax/shopify-bulk-operations): TypeScript helper for Shopify bulk queries
+- [Laravel Semantic Search](https://github.com/plazorax/laravel-semantic-search): pgvector semantic search with citations
+- [Laravel Agent Workflow](https://github.com/plazorax/laravel-agent-workflow): Claude Code quality gates for Laravel
+- [Woo Webhook Relay](https://github.com/plazorax/woo-webhook-relay): signed WooCommerce webhooks with retries and a delivery log
+- [WP Fleet Monitor](https://github.com/plazorax/wp-fleet-monitor): CLI and GitHub Action that checks a fleet of WordPress sites
+- [Pixel Radar](https://github.com/plazorax/pixel-radar): self-hosted visual monitoring for any website, with a dashboard and CLI
 
-**Tech stack:** PHP, Laravel, Node.js, React, TypeScript, PostgreSQL, Docker, Shopify Liquid, WordPress / WooCommerce.
-**AI stack:** LLM API integrations, AI agents with tool calling, MCP servers, RAG with pgvector, agentic coding with Claude Code behind quality gates.
+**Stack**
+
+- **Tech:** PHP, Laravel, Node.js, React, TypeScript, PostgreSQL, Docker, Shopify Liquid, WordPress / WooCommerce.
+- **AI:** LLM API integrations, AI agents with tool calling, MCP servers, RAG with pgvector, agentic coding with Claude Code behind quality gates.
 
 [LinkedIn](https://www.linkedin.com/in/plazorax) · plazorax@gmail.com
