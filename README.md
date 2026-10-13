@@ -6,8 +6,8 @@ Senior full-stack engineer and tech lead with 14+ years in web development, work
 
 - **WordPress themes:** 30+ themes on [ThemeForest](https://themeforest.net/user/codesupplyco/portfolio) with 31k+ sales (Code Supply Co).
 - **Shopify themes:** hands-on work across 10+ themes, including Shopify Theme Store themes Stockmart, Digital, Minimalista, Berlin, Stockholm and Portland. Standardized Shopify theme engineering across 30+ projects.
-- **WooCommerce:** 6 themes on the official WooCommerce Marketplace (Merchants' Best Friends).
-- **Plugins:** [WordPress.org plugins](https://profiles.wordpress.org/codesupplyco/) with 100k+ active installs, and Supercharger, an AI engagement plugin with 12 AI modules that I built end to end.
+- **WooCommerce:** 6 themes on the official [WooCommerce Marketplace](https://woocommerce.com/vendor/merchants-best-friends/) (Merchants' Best Friends).
+- **Plugins:** WordPress plugins with 100k+ active installs (public ones on [WordPress.org](https://profiles.wordpress.org/codesupplyco/)), and Supercharger, an AI engagement plugin with 12 AI modules that I built end to end.
 - **AI platform:** a company-wide AI-native platform built from scratch in about four months (Laravel, React + TypeScript, PostgreSQL), with an MCP server of 100+ tools for AI assistants.
 - Also: Shopify App Store apps (F85).
 
