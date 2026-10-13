@@ -1,6 +1,6 @@
 ### Oleksii Shaposhnikov
 
-Senior full-stack engineer and tech lead with 14+ years in web development, working remotely from Burgas, Bulgaria. I help e-commerce brands, agencies and product teams with custom Shopify and WordPress/WooCommerce development, integrations, internal tools and AI automation.
+Senior full-stack engineer and tech lead with 14+ years in web development, based in Burgas, Bulgaria. I build complete products — architecture, backend, frontend, integrations and the workflows around them — mostly in e-commerce (Shopify, WordPress/WooCommerce), with Laravel, React and practical AI tooling.
 
 **What I've built**
 
