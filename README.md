@@ -4,11 +4,11 @@ Senior full-stack engineer and tech lead with 14+ years in web development, work
 
 **What I've built**
 
+- **Ashstone Hub:** a company-wide operations platform I built from scratch, used daily across the company: a Laravel + React app with 35 modules (knowledge base, time tracking, support KPIs, datasets, roles and sharing), integrations with Asana, Slack, Figma, Zendesk, Cloudflare and Shopify, and an MCP server with 100+ tools for AI assistants.
 - **WordPress themes:** 30+ themes on [ThemeForest](https://themeforest.net/user/codesupplyco/portfolio) with 32k+ sales (Code Supply Co).
 - **Shopify themes:** hands-on work across 10+ themes, including Shopify Theme Store themes Stockmart, Digital, Minimalista, Berlin, Stockholm and Portland. Standardized Shopify theme engineering across 30+ projects.
 - **WooCommerce:** 6 themes on the official [WooCommerce Marketplace](https://woocommerce.com/vendor/merchants-best-friends/) (Merchants' Best Friends).
 - **Plugins:** WordPress plugins with 100k+ active installs (public ones on [WordPress.org](https://profiles.wordpress.org/codesupplyco/)), and Supercharger, an AI engagement plugin with 12 AI modules that I built end to end.
-- **AI platform:** a company-wide AI-native platform built from scratch in about four months (Laravel, React + TypeScript, PostgreSQL), with an MCP server of 100+ tools for AI assistants.
 - Also: Shopify App Store apps (F85).
 
 **Open source**
